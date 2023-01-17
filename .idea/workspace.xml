@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7fde579e-dc55-4d5c-ab49-a2c764405732" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/pagseguro/pagseguro-php-sdk" />
+      <path value="$PROJECT_DIR$/vendor/mikey179/vfsstream" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1ndn92WN2rhVnxrPiUpKdKP9Zai" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\JVS\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7fde579e-dc55-4d5c-ab49-a2c764405732" name="Default Changelist" comment="" />
+      <created>1611728679199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611728679199</updated>
+      <workItem from="1611728680677" duration="9493000" />
+      <workItem from="1611741864645" duration="9068000" />
+      <workItem from="1673937300827" duration="312000" />
+      <workItem from="1673937635135" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="673" y="310" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611737272780">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="673" y="310" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1611737272780" />
+    <state x="723" y="430" key="ComposerInitDialogKey" timestamp="1611737394934">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="723" y="430" key="ComposerInitDialogKey/0.0.1920.1040@0.0.1920.1040" timestamp="1611737394934" />
+  </component>
+</project>
